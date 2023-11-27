@@ -1,3 +1,16 @@
 android=5.1.0;
 steam=5.1.0;
 ios=5.1.0;
+charityEvent=false;
+stream=false;
+streamLink=https://www.twitch.tv/shamahan;
+streamTimeUtc=16;
+bannerMinCost=$25;
+topDonors=topDonors;
+allDonors=allDonors;
+dailyBonusTypeA=1 2 8 7 3 6 5;
+dailyBonusTypeB=1 2 9 3 4 6 5;
+dailyBonusBonus=0 7.5 15 5 15 10 10 15 10 10;
+riddleStartDate=2023 11 24;
+streamDate=2023 12 8;
+charityCodes=potato banana pumpkin jackfruit;
